@@ -1,4 +1,11 @@
-## Hi there 👋
+## Maker by Lanuza
+
+This is the official GitHub account of Juan de Lanuza School's MakerSpace.  
+
+Here, you will find some of our projects. Please check out our websites to learn more!  
+
+**[www.juandelanuza.org](www.juandelanuza.org)**
+**[www.makerbylanuza.com](www.makerbylanuza.com)**
 
 <!--
 **makerbylanuza/makerbylanuza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
